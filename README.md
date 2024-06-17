@@ -35,7 +35,7 @@
 
 By building this project I learned:
 
-- Markdonw semantics and how to structure a README.md document for a small project
+- Markdonw syntax and how to structure a README.md document for a small project
 - How to publish a project using GitHub Pages
 
 ### Useful resources
@@ -51,4 +51,4 @@ By building this project I learned:
 
 ## Acknowledgments
 
-I would like to express my gratitude to Frontend Mentor for providing such valuable resource for learning front-end development. Their platform goes beyond teaching just the technical aspects; it shows the entire process of project development. From design implementation to best coding practices and real-world project experience, Frontend Mentor has been instrumental in enhancing my skills and understanding of front-end development.
+I would like to express my gratitude to Frontend Mentor for providing such valuable resource for learning front-end development. Their platform goes beyond teaching just the technical aspects; it shows the entire process of project development. From design implementation to best coding practices and real-world project experience.
