@@ -55,7 +55,7 @@ body {
     margin-top: 1.6rem;
 }
 
-.card__qr-code {
+.card__qr-code-image {
     width: 100%;
     border-radius: 10px;
 }
@@ -72,7 +72,7 @@ body {
     font-weight: 700;
 }
 
-.card__paragraph {
+.card__description {
     color: var(--color-gray);
     font-size: 1.5rem;
     font-weight: 400;
