@@ -12,7 +12,9 @@
     --color-grey: #7D889E;
     --color-background: #D7E1EF;
     /* Dimensions */
-    --min-height: 600px;
+    --min-component-height: 600px;
+    --qr-code-height: 288px;
+    --qr-code-width: 288px;
 }
 
 /* Main elements styles */
@@ -41,14 +43,21 @@ body {
     height: 497px;
     width: 320px;
     border-radius: 20px;
+}
+
+.card--white {
     background: var(--color-white);
 }
 
-.card__qr-code {
-    height: 288px;
-    width: 288px;
-    border-radius: 10px;
+.card__image-wrapper {
+    height: var(--qr-code-height);
+    width: var(--qr-code-width);
     margin-top: 1.6rem;
+}
+
+.card__qr-code {
+    width: 100%;
+    border-radius: 10px;
 }
 
 .card__text-wrapper {
