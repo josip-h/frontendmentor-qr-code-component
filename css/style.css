@@ -8,8 +8,9 @@
 /* Global Variables */
 :root {
     /* Colors */
-    --color-white: #FFFFFF;
-    --color-grey: #7D889E;
+    --color-white: #FFF;
+    --color-grey-body: #7D889E;
+    --color-blue-heading: #1F314F;
     --color-background: #D7E1EF;
     /* Dimensions */
     --min-component-height: 600px;
@@ -67,13 +68,13 @@ body {
 }
 
 .card__title {
-    color: var(--color-blue);
+    color: var(--color-blue-heading);
     font-size: 2.2rem;
     font-weight: 700;
 }
 
 .card__description {
-    color: var(--color-gray);
+    color: var(--color-grey-body);
     font-size: 1.5rem;
     font-weight: 400;
     margin-top: 1.6rem;
